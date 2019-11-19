@@ -1,2 +1,2 @@
-# Sample for a post-receive git hook
-This sample demonstrates the use of the post-receive git hook by displaying a message in the console when a `git pull` is invoked locally on master and the contents of `requirements.txt` have changed.
+# Sample for a post-merge git hook
+This sample demonstrates the use of the post-merge git hook by displaying a message in the console when a `git pull` is invoked locally on master and the contents of `requirements.txt` have changed.
